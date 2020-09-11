@@ -4,7 +4,8 @@
 [![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
 
-[中文版](ReadMe.zh-Hans.md)
+- [ReadMe in Simplified Chinese](ReadMe.zh-Hans.md)
+- [ReadMe in Traditional Chinese](ReadMe.zh-Hant.md)
 
 > Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2019:
 
@@ -95,13 +96,15 @@ If you like or are using this project to learn or start your solution, please gi
       - [Elmah.io](http://elmah.io)
 
 7. Template Engines
-   1. [Razor](https://docs.microsoft.com/aspnet/core/mvc/views/razor)
-   2. [DotLiquid](https://github.com/dotliquid/dotliquid)
-   3. [Scriban](https://github.com/lunet-io/scriban)
-   4. [Fluid](https://github.com/sebastienros/fluid)
+
+   - [Razor](https://docs.microsoft.com/aspnet/core/mvc/views/razor)
+   - [DotLiquid](https://github.com/dotliquid/dotliquid)
+   - [Scriban](https://github.com/lunet-io/scriban)
+   - [Fluid](https://github.com/sebastienros/fluid)
+
 8. Real-Time Communication
 
-   1. [SignalR](https://docs.microsoft.com/aspnet/core/signalr)
+   - [SignalR](https://docs.microsoft.com/aspnet/core/signalr)
 
 9. Object Mapping
 
@@ -180,6 +183,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Dependency Inversion Principle (DIP)](https://www.dotnetcurry.com/software-gardening/1284/dependency-injection-solid-principles)
 
 16. Design-Patterns
+
     - [CQRS](https://docs.microsoft.com/azure/architecture/patterns/cqrs)
     - [Decorator](https://www.dofactory.com/net/decorator-design-pattern)
     - [Strategy](https://www.dofactory.com/net/strategy-design-pattern)
@@ -188,6 +192,14 @@ If you like or are using this project to learn or start your solution, please gi
     - [Singleton](https://www.dofactory.com/net/singleton-design-pattern)
     - [Facade](https://www.dofactory.com/net/facade-design-pattern)
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
+    
+17. Continuously Integration & Delivery
+    - [Gihub Actions](https://github.com/features/actions)
+    - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines)
+    - [TeamCity](https://www.jetbrains.com/teamcity)
+    - [Space](https://www.jetbrains.com/space)
+    - [Travis CI](https://travis-ci.org)
+    - [Circle CI](https://circleci.com/)
 
 ## Wrap Up
 
